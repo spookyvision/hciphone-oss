@@ -1,0 +1,9 @@
+iPhone grab bag. See examples (to be added later)
+Includes:
+- custom logging to automatically show an object hierarchy
+- lots of small helpers 
+    - disable logging for non-debug builds
+    - get current time in nanoseconds instead of mach units
+    - call selectors if they exist, ...
+    - color with int values (rgb/hsb/rgba/hsba 0-255)
+        - TODO: hex values
